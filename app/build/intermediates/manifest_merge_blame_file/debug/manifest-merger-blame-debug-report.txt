@@ -1,0 +1,106 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.myapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:6:5-40:19
+12        android:allowBackup="true"
+12-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:7:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.7.0] C:\Program Files1\gradle-7.4.2\caches\transforms-3\0c734a8f9451ded3159b05d46fc9a23a\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:8:9-65
+15        android:debuggable="true"
+16        android:fullBackupContent="@xml/backup_rules"
+16-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:9:9-54
+17        android:icon="@mipmap/ic_launcher"
+17-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:10:9-43
+18        android:label="@string/app_name"
+18-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:11:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:12:9-54
+20        android:supportsRtl="true"
+20-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:13:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.MyApplication" >
+22-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:14:9-51
+23        <activity
+23-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:16:9-18:40
+24            android:name="com.example.myapplication.Update_Data"
+24-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:17:13-40
+25            android:exported="false" />
+25-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:18:13-37
+26        <activity
+26-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:19:9-21:40
+27            android:name="com.example.myapplication.Delete_Activity"
+27-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:20:13-44
+28            android:exported="false" />
+28-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:21:13-37
+29        <activity
+29-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:22:9-24:40
+30            android:name="com.example.myapplication.Details_Activity"
+30-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:23:13-45
+31            android:exported="false" />
+31-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:24:13-37
+32        <activity
+32-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:25:9-27:40
+33            android:name="com.example.myapplication.ViewList"
+33-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:26:13-37
+34            android:exported="false" />
+34-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:27:13-37
+35        <activity
+35-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:28:9-30:40
+36            android:name="com.example.myapplication.AddRecord"
+36-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:29:13-38
+37            android:exported="false" />
+37-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:30:13-37
+38        <activity
+38-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:31:9-39:20
+39            android:name="com.example.myapplication.MainActivity"
+39-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:32:13-41
+40            android:exported="true" >
+40-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:33:13-36
+41            <intent-filter>
+41-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:34:13-38:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:35:17-69
+42-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:35:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:37:17-77
+44-->D:\Study\3-1\LAB\Rough\dummy database\bleh\app\src\main\AndroidManifest.xml:37:27-74
+45            </intent-filter>
+46        </activity>
+47
+48        <provider
+48-->[androidx.emoji2:emoji2:1.0.0] C:\Program Files1\gradle-7.4.2\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+49            android:name="androidx.startup.InitializationProvider"
+49-->[androidx.emoji2:emoji2:1.0.0] C:\Program Files1\gradle-7.4.2\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+50            android:authorities="com.example.myapplication.androidx-startup"
+50-->[androidx.emoji2:emoji2:1.0.0] C:\Program Files1\gradle-7.4.2\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+51            android:exported="false" >
+51-->[androidx.emoji2:emoji2:1.0.0] C:\Program Files1\gradle-7.4.2\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+52            <meta-data
+52-->[androidx.emoji2:emoji2:1.0.0] C:\Program Files1\gradle-7.4.2\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+53                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+53-->[androidx.emoji2:emoji2:1.0.0] C:\Program Files1\gradle-7.4.2\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+54                android:value="androidx.startup" />
+54-->[androidx.emoji2:emoji2:1.0.0] C:\Program Files1\gradle-7.4.2\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+55            <meta-data
+55-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Program Files1\gradle-7.4.2\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+56                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+56-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Program Files1\gradle-7.4.2\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+57                android:value="androidx.startup" />
+57-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Program Files1\gradle-7.4.2\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+58        </provider>
+59    </application>
+60
+61</manifest>

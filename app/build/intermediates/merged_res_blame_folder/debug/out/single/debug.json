@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-25:\\layout_activity_add_record.xml.flat",
+        "source": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-main-27:\\layout\\activity_add_record.xml"
+    },
+    {
+        "merged": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-main-27:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-main-27:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-25:\\layout_activity_details.xml.flat",
+        "source": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-main-27:\\layout\\activity_details.xml"
+    },
+    {
+        "merged": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-25:\\layout_list_item.xml.flat",
+        "source": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-main-27:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-25:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-main-27:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-25:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-main-27:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-25:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-main-27:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-25:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-main-27:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-25:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-main-27:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-25:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-pngs-20:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-25:/layout_activity_main.xml.flat",
+        "source": "com.example.myapplication.app-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-25:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-main-27:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-main-27:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-25:\\layout_activity_update_data.xml.flat",
+        "source": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-main-27:\\layout\\activity_update_data.xml"
+    },
+    {
+        "merged": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-25:\\layout_activity_delete.xml.flat",
+        "source": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-main-27:\\layout\\activity_delete.xml"
+    },
+    {
+        "merged": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-25:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-main-27:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-main-27:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-25:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-main-27:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-main-27:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-25:\\layout_activity_main.xml.flat",
+        "source": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-main-27:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-25:\\layout_activity_view_list.xml.flat",
+        "source": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-main-27:\\layout\\activity_view_list.xml"
+    },
+    {
+        "merged": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-25:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-main-27:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Program Files1\\gradle-7.4.2\\daemon\\7.3.3\\com.example.myapplication.app-main-27:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]
